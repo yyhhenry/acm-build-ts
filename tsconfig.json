@@ -1,0 +1,10 @@
+{
+    "extends": "@tsconfig/node18",
+    "compilerOptions": {
+        "module": "ESNext",
+        "moduleResolution": "Bundler",
+        "paths": {
+            "@/*": ["./*"]
+        }
+    }
+}

@@ -1,0 +1,6 @@
+/node_modules
+*.in
+*.out
+*.zip
+*.exe
+pnpm-lock.yaml

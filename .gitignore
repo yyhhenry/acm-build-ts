@@ -1,0 +1,11 @@
+/node_modules
+*.in
+*.out
+*.zip
+*.exe
+main.js
+
+
+# Added by cargo
+
+/target
