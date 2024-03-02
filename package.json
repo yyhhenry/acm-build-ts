@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "license": "MIT",
     "type": "module",
-    "description": "a tool designed to construct data for regular ACM competition problems",
+    "description": "A TypeScript tool designed to construct data for regular ACM competition problems",
     "author": "yyhhenry",
     "devDependencies": {
         "@types/fs-extra": "^11.0.4",
